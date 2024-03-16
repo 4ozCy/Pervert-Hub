@@ -9,9 +9,9 @@ local AFKOptions = {}
 local Discord = Window:MakeTab({"Discord", "Info"})
 Discord:AddDiscordInvite({
   Name = "Pervert Hub | Community",
-  Description = "Join our discord community to receive information about the next update",
+  Description = "?",
   Logo = "rbxassetid://15298567397",
-  Invite = "https://discord.gg/?",
+  Invite = "?",
 })
 local MainFarm = Window:MakeTab({"Farm", "Home"})
 if Sea3 then
